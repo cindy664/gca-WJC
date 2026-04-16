@@ -1,4 +1,113 @@
-{
-"secondaryBrandColor":"#ffb300",
-"primaryBrandColor":"#000000",
-} 
+[
+  {
+    "item": "home",
+    "schoolname": "Washington & Jefferson College",
+    "abbreviation": "WJC",
+    "genericProgramName": "The Global Career Accelerator",
+    "secondaryBrandColor": null,
+    "primaryBrandColor": null,
+    "buttonColor": null,
+    "buttonTextColor": null,
+    "logo": null,
+    "cobranded_logo": null,
+    "partner_id": "001Rd00000dV5crIAC",
+    "programName": "W&J Global Career Accelerator",
+    "termsandConditionsPolicy": null,
+    "registrationMessage": "Registration is now open.",
+    "credits": "4 WJC credits",
+    "startDate": null,
+    "endDate": null
+  },
+  {
+    "item": "about",
+    "schoolname": "Washington & Jefferson College",
+    "genericProgramName": "The Global Career Accelerator",
+    "schoolFullAddress": null,
+    "abbreviation": "WJC",
+    "phone": null,
+    "credits": "4 WJC credits",
+    "programFee": null,
+    "seasonYear": null,
+    "season": null,
+    "registrationMessage": "Registration is now open."
+  },
+  {
+    "item": "explore-tracks",
+    "credits": "4 WJC credits",
+    "abbreviation": "WJC",
+    "registrationMessage": "Registration is now open."
+  },
+  {
+    "item": "digital-marketing",
+    "schoolname": "Washington & Jefferson College",
+    "trackTitle": "Digital Marketing Track",
+    "credits": "4 WJC credits",
+    "abbreviation": "WJC",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "⚪ Not Set",
+    "seasonYear": null,
+    "startDate": null,
+    "endDate": null
+  },
+  {
+    "item": "coding-for-web",
+    "schoolname": "Washington & Jefferson College",
+    "trackTitle": "Web Development for Everyone Track",
+    "credits": "4 WJC credits",
+    "abbreviation": "WJC",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "⚪ Not Set",
+    "seasonYear": null,
+    "startDate": null,
+    "endDate": null
+  },
+  {
+    "item": "data-analytics",
+    "schoolname": "Washington & Jefferson College",
+    "trackTitle": "Data Analytics Track",
+    "credits": "4 WJC credits",
+    "abbreviation": "WJC",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "⚪ Not Set",
+    "seasonYear": null,
+    "startDate": null,
+    "endDate": null
+  },
+  {
+    "item": "coding-for-data",
+    "schoolname": "Washington & Jefferson College",
+    "trackTitle": "Coding for Data Track",
+    "credits": "4 WJC credits",
+    "abbreviation": "WJC",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "⚪ Not Set",
+    "seasonYear": null,
+    "startDate": null,
+    "endDate": null
+  },
+  {
+    "item": "career-rotation",
+    "schoolname": "Washington & Jefferson College",
+    "trackTitle": "Career Rotation Track",
+    "credits": "4 WJC credits",
+    "abbreviation": "WJC",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "⚪ Not Set",
+    "seasonYear": null,
+    "startDate": null,
+    "endDate": null
+  },
+  {
+    "item": "reserve-a-seat",
+    "programName": "W&J Global Career Accelerator",
+    "registrationMessage": "Registration is now open.",
+    "phone": null,
+    "abbreviation": "W&J"
+  },
+  {
+    "item": "begin",
+    "credits": "4 WJC credits",
+    "abbreviation": "WJC",
+    "phone": null
+  }
+]
